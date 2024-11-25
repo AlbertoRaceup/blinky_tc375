@@ -1,0 +1,5 @@
+TriCore Debug (GCC)
+TriCore Release (GCC)
+TriCore Release (TASKING)
+TriCore Debug (TASKING)
+*.launch
