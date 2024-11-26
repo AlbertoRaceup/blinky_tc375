@@ -3,6 +3,8 @@ CompileFlags:
     - -ILibraries/iLLD/TC37A/Tricore/Cpu/Std
     - -ILibraries/iLLD/TC37A/Tricore/Scu/Std
     - -includeLibraries/Infra/Platform/Tricore/Compilers/Compilers.h
+    - -includeLibraries/iLLD/TC37A/Tricore/Cpu/Std/Platfrom_Types.h"
+
     - -IConfigurations"
     - -ILibraries"
     - -ILibraries/Infra"
